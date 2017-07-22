@@ -1,0 +1,23 @@
+{
+  "name": "newbotdemo",
+  "version": "1.0.0",
+  "description": "Sample bot for the MS Bot Framework and Azure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigBadChicago/newBotDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigBadChicago/newBotDemo/issues"
+  },
+  "homepage": "https://github.com/BigBadChicago/newBotDemo#readme",
+  "dependencies": {
+    "botbuilder": "3.8.4",
+    "restify": "5.0.1"
+  }
+}

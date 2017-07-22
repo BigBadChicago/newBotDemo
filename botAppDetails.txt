@@ -1,0 +1,12 @@
+newBotDemo
+
+http://jb-firstbotdemo.azurewebsites.net
+
+APP NAME:
+newBotDemo
+
+APP ID:
+5b9a9b52-c3bc-4807-bf68-fca7db4d3a1e
+
+APP PASSWORD:
+ymjaLnXPocZajHBXxPpr6i5
